@@ -133,6 +133,13 @@ li img {
 
 /* Footer */
 
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 .country {
     height: 40.5px;
     color: #5F6368;
